@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
+| [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
