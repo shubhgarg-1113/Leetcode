@@ -20,4 +20,5 @@ int* numberOfLines(int* widths, int widthsSize, char * s, int* returnSize){
     arr[0] = line + 1;
     arr[1] = size;
     return arr;
+    free(arr);
 }
