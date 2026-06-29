@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/shubhgarg-1113/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Geometry
 |  |
 | ------- |
