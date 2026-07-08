@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shubhgarg-1113/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/shubhgarg-1113/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shubhgarg-1113/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Geometry
 |  |
@@ -58,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2833-furthest-point-from-origin](https://github.com/shubhgarg-1113/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
