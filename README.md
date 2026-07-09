@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shubhgarg-1113/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/shubhgarg-1113/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Array
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
+## Simulation
+|  |
+| ------- |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 <!---LeetCode Topics End-->
