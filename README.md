@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/shubhgarg-1113/Leetcode/tree/master/0048-rotate-image) |
 | [0728-self-dividing-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/shubhgarg-1113/Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/shubhgarg-1113/Leetcode/tree/master/0048-rotate-image) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/shubhgarg-1113/Leetcode/tree/master/1952-three-divisors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shubhgarg-1113/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
