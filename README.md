@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/shubhgarg-1113/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/shubhgarg-1113/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shubhgarg-1113/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Geometry
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2833-furthest-point-from-origin](https://github.com/shubhgarg-1113/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Prefix Sum
 |  |
 | ------- |
