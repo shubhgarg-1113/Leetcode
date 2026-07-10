@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/shubhgarg-1113/Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shubhgarg-1113/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/shubhgarg-1113/Leetcode/tree/master/1952-three-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/shubhgarg-1113/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/shubhgarg-1113/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
