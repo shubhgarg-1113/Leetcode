@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shubhgarg-1113/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/shubhgarg-1113/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shubhgarg-1113/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shubhgarg-1113/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/shubhgarg-1113/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/shubhgarg-1113/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
