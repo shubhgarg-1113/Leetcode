@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
+| [0728-self-dividing-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shubhgarg-1113/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/shubhgarg-1113/Leetcode/tree/master/1952-three-divisors) |
