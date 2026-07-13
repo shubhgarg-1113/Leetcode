@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/shubhgarg-1113/Leetcode/tree/master/0125-valid-palindrome) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
 | [2678-number-of-senior-citizens](https://github.com/shubhgarg-1113/Leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/shubhgarg-1113/Leetcode/tree/master/0125-valid-palindrome) |
 ## Counting
 |  |
 | ------- |
