@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2678-number-of-senior-citizens](https://github.com/shubhgarg-1113/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shubhgarg-1113/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/shubhgarg-1113/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
