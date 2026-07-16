@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/shubhgarg-1113/Leetcode/tree/master/0048-rotate-image) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/shubhgarg-1113/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
