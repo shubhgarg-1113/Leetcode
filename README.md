@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/shubhgarg-1113/Leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/shubhgarg-1113/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/shubhgarg-1113/Leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Counting
 |  |
 | ------- |
