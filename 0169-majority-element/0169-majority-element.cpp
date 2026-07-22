@@ -7,12 +7,12 @@ public:
             if(nums[i] == num){
                 count++;
             }
-            else if(nums[i] != num && count>0){
+            else if(count>0){
                 count--;
             }
-            else if(nums[i] != num && count == 0){
+            else{
                 num = nums[i];
-                count++;
+                count = 1;
             }
         }
         return num;
