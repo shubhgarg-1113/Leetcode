@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0169-majority-element) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1207-unique-number-of-occurrences](https://github.com/shubhgarg-1113/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/shubhgarg-1113/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
+| [1207-unique-number-of-occurrences](https://github.com/shubhgarg-1113/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
