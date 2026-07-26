@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhgarg-1113/Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shubhgarg-1113/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/shubhgarg-1113/Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/shubhgarg-1113/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/shubhgarg-1113/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shubhgarg-1113/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Simulation
