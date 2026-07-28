@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shubhgarg-1113/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/shubhgarg-1113/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3941-password-strength](https://github.com/shubhgarg-1113/Leetcode/tree/master/3941-password-strength) |
 ## Array
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shubhgarg-1113/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
