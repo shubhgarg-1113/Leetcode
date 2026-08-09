@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhgarg-1113/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shubhgarg-1113/Leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shubhgarg-1113/Leetcode/tree/master/0242-valid-anagram) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhgarg-1113/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/shubhgarg-1113/Leetcode/tree/master/0048-rotate-image) |
