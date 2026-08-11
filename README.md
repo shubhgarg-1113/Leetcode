@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2469-convert-the-temperature](https://github.com/shubhgarg-1113/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shubhgarg-1113/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2582-pass-the-pillow](https://github.com/shubhgarg-1113/Leetcode/tree/master/2582-pass-the-pillow) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/shubhgarg-1113/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2562-find-the-array-concatenation-value](https://github.com/shubhgarg-1113/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2582-pass-the-pillow](https://github.com/shubhgarg-1113/Leetcode/tree/master/2582-pass-the-pillow) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Greedy
 |  |
