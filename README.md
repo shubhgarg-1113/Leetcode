@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhgarg-1113/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3908-valid-digit-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/shubhgarg-1113/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/shubhgarg-1113/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shubhgarg-1113/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/shubhgarg-1113/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/shubhgarg-1113/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2562-find-the-array-concatenation-value](https://github.com/shubhgarg-1113/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3074-apple-redistribution-into-boxes](https://github.com/shubhgarg-1113/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2582-pass-the-pillow](https://github.com/shubhgarg-1113/Leetcode/tree/master/2582-pass-the-pillow) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shubhgarg-1113/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1952-three-divisors](https://github.com/shubhgarg-1113/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhgarg-1113/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
