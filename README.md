@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2404-most-frequent-even-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/shubhgarg-1113/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shubhgarg-1113/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3941-password-strength](https://github.com/shubhgarg-1113/Leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/shubhgarg-1113/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/shubhgarg-1113/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shubhgarg-1113/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shubhgarg-1113/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
