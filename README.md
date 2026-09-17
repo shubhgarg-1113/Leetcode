@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhgarg-1113/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shubhgarg-1113/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shubhgarg-1113/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/shubhgarg-1113/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhgarg-1113/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/shubhgarg-1113/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shubhgarg-1113/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/shubhgarg-1113/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2562-find-the-array-concatenation-value](https://github.com/shubhgarg-1113/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shubhgarg-1113/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shubhgarg-1113/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/shubhgarg-1113/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Database
 |  |
