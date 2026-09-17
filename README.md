@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-divisor-game](https://github.com/shubhgarg-1113/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/shubhgarg-1113/Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1512-number-of-good-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shubhgarg-1113/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/shubhgarg-1113/Leetcode/tree/master/1952-three-divisors) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/shubhgarg-1113/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/shubhgarg-1113/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1207-unique-number-of-occurrences](https://github.com/shubhgarg-1113/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/shubhgarg-1113/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1512-number-of-good-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/shubhgarg-1113/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
