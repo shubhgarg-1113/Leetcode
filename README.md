@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1037-valid-boomerang](https://github.com/shubhgarg-1113/Leetcode/tree/master/1037-valid-boomerang) |
 | [1207-unique-number-of-occurrences](https://github.com/shubhgarg-1113/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shubhgarg-1113/Leetcode/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/shubhgarg-1113/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2562-find-the-array-concatenation-value](https://github.com/shubhgarg-1113/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/shubhgarg-1113/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/shubhgarg-1113/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shubhgarg-1113/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
