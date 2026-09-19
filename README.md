@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/shubhgarg-1113/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shubhgarg-1113/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/shubhgarg-1113/Leetcode/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhgarg-1113/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhgarg-1113/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2582-pass-the-pillow](https://github.com/shubhgarg-1113/Leetcode/tree/master/2582-pass-the-pillow) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shubhgarg-1113/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3360-stone-removal-game](https://github.com/shubhgarg-1113/Leetcode/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
