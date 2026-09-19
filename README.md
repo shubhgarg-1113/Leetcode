@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/shubhgarg-1113/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2032-two-out-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2032-two-out-of-three) |
 | [2404-most-frequent-even-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2784-check-if-array-is-good](https://github.com/shubhgarg-1113/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2032-two-out-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2032-two-out-of-three) |
 | [2404-most-frequent-even-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhgarg-1113/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shubhgarg-1113/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/shubhgarg-1113/Leetcode/tree/master/0342-power-of-four) |
+| [2032-two-out-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2032-two-out-of-three) |
 ## Two Pointers
 |  |
 | ------- |
