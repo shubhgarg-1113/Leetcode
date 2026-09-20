@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/shubhgarg-1113/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3941-password-strength](https://github.com/shubhgarg-1113/Leetcode/tree/master/3941-password-strength) |
 ## Array
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shubhgarg-1113/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3360-stone-removal-game](https://github.com/shubhgarg-1113/Leetcode/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
