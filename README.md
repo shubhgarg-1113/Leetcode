@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/shubhgarg-1113/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shubhgarg-1113/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shubhgarg-1113/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shubhgarg-1113/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shubhgarg-1113/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shubhgarg-1113/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shubhgarg-1113/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shubhgarg-1113/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shubhgarg-1113/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/shubhgarg-1113/Leetcode/tree/master/0392-is-subsequence) |
