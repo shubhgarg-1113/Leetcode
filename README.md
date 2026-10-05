@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shubhgarg-1113/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/shubhgarg-1113/Leetcode/tree/master/3360-stone-removal-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/shubhgarg-1113/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhgarg-1113/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhgarg-1113/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/shubhgarg-1113/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/shubhgarg-1113/Leetcode/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2032-two-out-of-three) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/shubhgarg-1113/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
