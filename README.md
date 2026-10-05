@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shubhgarg-1113/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/shubhgarg-1113/Leetcode/tree/master/0645-set-mismatch) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/shubhgarg-1113/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/shubhgarg-1113/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/shubhgarg-1113/Leetcode/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shubhgarg-1113/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/shubhgarg-1113/Leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/shubhgarg-1113/Leetcode/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2032-two-out-of-three) |
 ## Two Pointers
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/shubhgarg-1113/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhgarg-1113/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhgarg-1113/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/shubhgarg-1113/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/shubhgarg-1113/Leetcode/tree/master/2784-check-if-array-is-good) |
