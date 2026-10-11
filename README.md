@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shubhgarg-1113/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/shubhgarg-1113/Leetcode/tree/master/2582-pass-the-pillow) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/shubhgarg-1113/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/shubhgarg-1113/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
