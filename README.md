@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/shubhgarg-1113/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shubhgarg-1113/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/shubhgarg-1113/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/shubhgarg-1113/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/shubhgarg-1113/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/shubhgarg-1113/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shubhgarg-1113/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
