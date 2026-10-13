@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/shubhgarg-1113/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/shubhgarg-1113/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/shubhgarg-1113/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shubhgarg-1113/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhgarg-1113/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3894-traffic-signal-color](https://github.com/shubhgarg-1113/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/shubhgarg-1113/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/shubhgarg-1113/Leetcode/tree/master/3941-password-strength) |
 ## Array
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3360-stone-removal-game](https://github.com/shubhgarg-1113/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/shubhgarg-1113/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
 | ------- |
