@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2032-two-out-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2032-two-out-of-three) |
 | [2404-most-frequent-even-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/shubhgarg-1113/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/shubhgarg-1113/Leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/shubhgarg-1113/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3663-find-the-least-frequent-digit](https://github.com/shubhgarg-1113/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/shubhgarg-1113/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1844-replace-all-digits-with-characters](https://github.com/shubhgarg-1113/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shubhgarg-1113/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2418-sort-the-people](https://github.com/shubhgarg-1113/Leetcode/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/shubhgarg-1113/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shubhgarg-1113/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/shubhgarg-1113/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2032-two-out-of-three) |
 | [2404-most-frequent-even-element](https://github.com/shubhgarg-1113/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/shubhgarg-1113/Leetcode/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhgarg-1113/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shubhgarg-1113/Leetcode/tree/master/2540-minimum-common-value) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/shubhgarg-1113/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2418-sort-the-people](https://github.com/shubhgarg-1113/Leetcode/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/shubhgarg-1113/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shubhgarg-1113/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/shubhgarg-1113/Leetcode/tree/master/3467-transform-array-by-parity) |
