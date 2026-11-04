@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/shubhgarg-1113/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/shubhgarg-1113/Leetcode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/shubhgarg-1113/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shubhgarg-1113/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/shubhgarg-1113/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/shubhgarg-1113/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shubhgarg-1113/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shubhgarg-1113/Leetcode/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/shubhgarg-1113/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/shubhgarg-1113/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/shubhgarg-1113/Leetcode/tree/master/1528-shuffle-string) |
