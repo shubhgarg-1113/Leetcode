@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/shubhgarg-1113/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shubhgarg-1113/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1920-build-array-from-permutation](https://github.com/shubhgarg-1113/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhgarg-1113/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhgarg-1113/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/shubhgarg-1113/Leetcode/tree/master/2032-two-out-of-three) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shubhgarg-1113/Leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/shubhgarg-1113/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubhgarg-1113/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2562-find-the-array-concatenation-value](https://github.com/shubhgarg-1113/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/shubhgarg-1113/Leetcode/tree/master/2582-pass-the-pillow) |
